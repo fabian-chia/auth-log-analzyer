@@ -1,6 +1,7 @@
 # auth-log-analzyer
 This script was created to automate the analysis of /var/log/auth.log in a kali machine 
 This script was written in python
+
 Data obtainable after running the script
 - Newly added users
 - Deleted users
