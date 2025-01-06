@@ -1,4 +1,4 @@
-# auth-log-analzyer
+# auth-log-analyzer
 This script was created to automate the analysis of /var/log/auth.log in a kali machine 
 This script was written in python
 
