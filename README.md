@@ -1,6 +1,6 @@
 # auth-log-analyzer
-This script was created to automate the analysis of /var/log/auth.log in a kali machine 
-This script was written in python
+This python script was created to automate the analysis of /var/log/auth.log in a kali machine 
+It was created to simulate the analysis auth.log after the system has been compromised to find out what changes were made to the system
 
 Data obtainable after running the script
 - Commands executed
